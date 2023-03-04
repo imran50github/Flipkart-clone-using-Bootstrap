@@ -1,0 +1,35 @@
+/* .card-container img:hover{
+    transform: scale(1.3);
+    transition: transform .2s;
+} */
+/* body{
+    background-color: #ccc;
+} */
+
+.body-light{
+    background-color: rgb(255, 255, 255);
+}
+.deal-card:hover{
+    transform: scale(1.3);
+    transition: transform .2s;
+}
+.bg-white{
+    background-color: #fff;
+}
+.recent-view-p{
+    font-size: .6rem;
+}
+.recent-view-a {
+    -webkit-transition: color 2s;
+    transition: color 2s;
+}
+.recent-view-a:hover {
+    color: green;
+}
+/* #formGroupExampleInput{
+    width: 50%;
+} */
+.form-div{
+    width: 50%;
+    display: block;
+}
